@@ -24,6 +24,6 @@
 	<a href="badmintion.html">Badmintion</a>
 	<a href="table tennis.html">Table tennis</a>
 </div>
-<img src="C:\Users\First Credit\Desktop\weblayout\images.jpg">
+<img src="images.jpg">
 </body>
 </html>
