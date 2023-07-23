@@ -5,16 +5,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>essay on sports</title>
-	<style type="text/css">
-		marquee
-		{
-			font-size:80px;
-		}
-	</style>
 </head>
 <body bgcolor="cyan">
-	<font color="white" size="4px" face="algerian">
-<marquee bgcolor="red" height="100px" scrollamount="20px" direction="left" behavior="alternate" onmouseover="this.stop()" onmouseout="this.start()">ESSAY ON SPORTS</marquee></font>
 <div class="b">
 	<a href="cricket.html">Cricket</a>
 	<a href="hockey.html">Hockey</a>
