@@ -5,6 +5,13 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>essay on sports</title>
+	<style type="text/css">
+		h1
+		{
+			background-color:red;
+			text-align:center;
+		}
+	</style>
 </head>
 <body bgcolor="cyan">
 	<h1>ESSAY ON SPORTS</h1>
